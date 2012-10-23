@@ -6,3 +6,7 @@ TODO
 4. Linux Charon GUI.
 5. Version check.
 6. Identify and impliment possible hardware check programs or codes.
+7. LOGOS. LOTS OF LOGOS.
+8. Partition manager.
+9. WiFi password recovery.
+10. Windows password recovery.
