@@ -1,0 +1,8 @@
+TODO
+
+1. Build a bootable customized LiveCD with Ubuntu and Reconstructor.
+2. Pack in ClamAV.
+3. Identify ideal coding language for Charon in Linux to act on a Windows offline partition.
+4. Linux Charon GUI.
+5. Version check.
+6. Identify and impliment possible hardware check programs or codes.
